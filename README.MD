@@ -1,7 +1,3 @@
-Here’s a properly structured README file for your project:
-
----
-
 # AI-Powered Cold Outreach System
 
 This project automates the cold outreach process for the German market, specifically targeting leads in the real estate sector. The system scrapes leads from ImmobilienScout24, personalizes outreach emails, and automates email delivery using Microsoft Power Automate.
