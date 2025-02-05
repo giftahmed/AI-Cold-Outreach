@@ -1,0 +1,17 @@
+ Email Template:
+   
+     Subject: Maximale Sichtbarkeit für Ihr Projekt {Project Name} in {Location}
+
+     Sehr geehrte/r {Contact Person},
+
+     ich hoffe, diese Nachricht erreicht Sie wohlbehalten. Mein Name ist [Ihr Name], und ich bin von ExposeProfi. Wir unterstützen Immobilienentwickler wie {Company Name} dabei, ihre Projekte durch professionelle Fotografie, virtuelle Touren und KI-gestützte Marketinglösungen erfolgreich zu vermarkten.
+
+     Ich habe gesehen, dass Sie derzeit das Projekt {Project Name} in {Location} entwickeln. Unsere Dienstleistungen könnten Ihnen helfen, die Sichtbarkeit Ihres Projekts zu maximieren und potenzielle Käufer oder Mieter effektiv anzusprechen.
+
+     Wären Sie an einem kurzen Gespräch interessiert, um mehr über unsere Lösungen zu erfahren? Ich würde mich freuen, Ihnen zu zeigen, wie wir Sie bei der Vermarktung Ihres Projekts unterstützen können.
+
+     Mit freundlichen Grüßen,
+     Ihr Name
+     Position
+     ExposeProfi
+     Kontaktdaten
