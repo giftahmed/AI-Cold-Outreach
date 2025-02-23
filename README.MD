@@ -109,4 +109,4 @@ Kontaktdaten
 
 ### **Demo Video**
 Watch a walkthrough of the app's features and codebase:  
-**[Demo Video Link](hhttps://youtu.be/lnZjE8chtHU)**
+**[Demo Video Link](https://youtu.be/lnZjE8chtHU)**
